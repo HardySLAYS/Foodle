@@ -1,5 +1,5 @@
 # FOODLE
-A game of wordle but...guess what....just with food names!!!
+A game of wordle but with food names!!!
 
 ---
 ## INTRODUCTION
